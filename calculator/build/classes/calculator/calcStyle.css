@@ -1,0 +1,21 @@
+.root{
+    -fx-background-color: #202020;
+    
+    
+}
+Button{
+    -fx-background-color: #323232;
+    -fx-text-fill: #EBEBEB;
+    -fx-background-radius: 8px;
+    -fx-border-radius: 8px
+}
+Button:hover{
+    -fx-background-color: #3C3C3C;
+    -fx-cursor: hand;
+}
+TextField{
+    -fx-background-color: #323232;
+    -fx-text-fill: #EBEBEB;
+    
+    
+}
